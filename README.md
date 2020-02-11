@@ -1,6 +1,6 @@
-#Para instalar
+## Instalación dependencias de ansible-galaxy
 - ansible-galaxy install andrewrothstein.docker
 - ansible-galaxy install andrewrothstein.docker-compose
 
-#Para ejecutar instalacion en debian limpio correr:
+## Instala en máquina remota con ..
 - ansible-playbook docker-playbook.yml 
